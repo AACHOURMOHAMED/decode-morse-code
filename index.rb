@@ -28,11 +28,9 @@ def decode_sentence(sentence)
 end
 
 # decode character
-
 puts decode_morse('....') # H
 
 # decode word
-
 puts decode_word('.... . .-.. .-.. ---') # HELLO
 
 # decode sentence
