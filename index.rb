@@ -37,4 +37,4 @@ puts decode_word('.... . .-.. .-.. ---') # HELLO
 
 # decode sentence
 puts decode_sentence('.... . -.--  -- --- .... .- -- . -..')
-puts decode_sentence('- .... .- -. -.- ' ' -.-- --- ..- ')
+puts decode_sentence('- .... .- -. -.-  -.-- --- ..- ')
